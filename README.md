@@ -13,6 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+📫 How to reach me: **devanshshukla99@outlook.com**
+
 -->
 
-[![Devansh's github stats](https://github-readme-stats.vercel.app/api?username=devanshshukla99)](https://github.com/devanshshukla99/github-readme-stats)
+
+<p align="left"> </p><p align="center"> 
+  <img src=https://github-readme-stats.vercel.app/api?username=devanshshukla99&show_icons=true&count_private=true alt=devanshshukla99 /> 
+</p>
