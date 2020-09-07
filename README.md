@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center"> Hi 👋, I'm Devansh Shukla </h1>
 
 <!--
 **devanshshukla99/devanshshukla99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Devansh's github stats](https://github-readme-stats.vercel.app/api?username=devanshshukla99)](https://github.com/devanshshukla99/github-readme-stats)
