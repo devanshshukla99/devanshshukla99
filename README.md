@@ -1,4 +1,4 @@
-<h1 align="center"> Hi 👋, I'm Devansh Shukla </h1>
+<h1 align="center"> Hi 👋🏻, I'm Devansh Shukla </h1>
 
 <!--
 **devanshshukla99/devanshshukla99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
