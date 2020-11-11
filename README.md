@@ -29,6 +29,6 @@ Here are some ideas to get you started:
 </p>
 
 
-[1.1]: https://github.com/devanshshukla99/devanshshukla99/blob/main/icon/twitter.png?raw=true
+[1.1]: https://github.com/devanshshukla99/devanshshukla99/blob/master/icon/twitter.png?raw=true
 [1.2]: http://i.imgur.com/wWzX9uB.png
 [1]: https://twitter.com/devanshshukla99
