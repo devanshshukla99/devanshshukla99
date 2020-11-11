@@ -20,7 +20,15 @@ Here are some ideas to get you started:
 
 -->
 
+ - 😄 Pronouns: 006.9998 :)
+ - 📫 How to reach me: Find me on [![Twitter][1.1]][1]
+
 </br>
 <p align="left"> </p><p align="center"> 
   <img src=https://github-readme-stats.vercel.app/api?username=devanshshukla99&show_icons=true&count_private=true alt=devanshshukla99 /> 
 </p>
+
+
+[1.1]: https://github.com/devanshshukla99/devanshshukla99/blob/main/icon/twitter.png?raw=true
+[1.2]: http://i.imgur.com/wWzX9uB.png
+[1]: https://twitter.com/devanshshukla99
