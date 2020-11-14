@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 -->
 
- - 😄 Pronouns: 006.9998 and He/Him/His
+ - 😄 Pronouns: <b>006.9998 and He/Him/His</b>
  - 📫 How to reach me: <b>Find me on</b> <a href="https://twitter.com/devanshshukla99"> <img height="25" src="https://github.com/devanshshukla99/devanshshukla99/blob/master/icon/twitter.png?raw=true"></a> 
      
 
