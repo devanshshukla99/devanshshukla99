@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 📫 How to reach me: **devanshshukla99@outlook.com**
 
- - 😄 Pronouns: 006.9998 :) 
- - 📫 How to reach me: Drop an email at [devanshshukla99@outlook.com](mailto:devanshshukla99@outlook.com)
-
 -->
 
  - 😄 Pronouns: <b>006.9998 and He/Him/His</b>
@@ -26,7 +23,8 @@ Here are some ideas to get you started:
 
 </br>
 <p align="left"> </p><p align="center"> 
-  <img src=https://github-readme-stats.vercel.app/api?username=devanshshukla99&show_icons=true&count_private=true alt=devanshshukla99 /> 
+<!--   <img src=https://github-readme-stats.vercel.app/api?username=devanshshukla99&show_icons=true&count_private=true alt=devanshshukla99 />  -->
+	<img src="https://github-readme-stats.vercel.app/api?username=devanshshukla99&show_icons=true&count_private=true&theme=dracula&title_color=6E7CF9&bg_color=000000&hide_border=true" alt=devanshshukla99 />
 </p>
 
 <!--
