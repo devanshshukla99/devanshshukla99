@@ -1,6 +1,3 @@
-<h1 align="center"> 👋🏻</h1> 
-<br>
-
 [![](https://img.shields.io/badge/ORCID-informational?style=flat&logo=ORCID&logoColor=white&color=A6CE39)](https://orcid.org/0000-0003-0610-9747)
 [![](https://img.shields.io/badge/Twitter-1DA1F2?&logo=twitter&logoColor=white)](https://www.twitter.com/devanshshukla99)
 
